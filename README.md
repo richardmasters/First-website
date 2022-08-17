@@ -1,2 +1,2 @@
-# landing-page
-Landing Page for Odin Project
+# First-website-page
+First Website

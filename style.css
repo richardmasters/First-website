@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(43, 48, 209);
+    color: white;
+    font-size: medium;
+}
+#Top {
+    display:flex;
+    justify-content: center;
+}
+h1{
+    width: 40%;
+    
+    text-align:center;
+  border: 20px solid black;
+  padding: 20px;
+  margin: 50px;
+  font-size: 60px;
+}
+ul {
+    font-size:20px;
+    width: 90%;
+    display:flex;
+    justify-content: space-between;
+}
+img {
+    width: 60%;
+    height: auto;
+}
+#img-flex {
+    display:flex;
+    justify-content:center;
+}
+#Photo-Credit {
+    text-align: Center;
+}
